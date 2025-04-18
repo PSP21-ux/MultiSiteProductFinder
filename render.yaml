@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: multisite-scraper
+    env: docker
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: EMAIL_USERNAME
+        value: youremail@gmail.com
+      - key: EMAIL_PASSWORD
+        value: your_app_password
+      - key: MONGO_URI
+        value: mongodb+srv://admin:admin123@cluster0.f40q0co.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.vs/
+.vscode/
+*.log
+*.png
+joblib/
+*.joblib
+.DS_Store
+Thumbs.db

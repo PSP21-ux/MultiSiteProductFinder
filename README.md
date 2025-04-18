@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Multi-Site Product Scraper & Availability Alert System
 
 Search and monitor electronics components from Amazon.in, Robu.in, and RoboCraze. Get notified by email when out-of-stock products become available.
@@ -27,3 +28,6 @@ Then visit: http://127.0.0.1:5000/
 - Selenium
 - MongoDB
 - SentenceTransformers
+=======
+# MultiSiteProductFinder
+>>>>>>> c41fd106028f6416edc7641e8c3097d70487e359
